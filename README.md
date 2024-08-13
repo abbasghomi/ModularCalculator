@@ -1,8 +1,8 @@
-﻿# CalculatorApp
+﻿# ModularCalculator
 
-![Build Status](https://img.shields.io/github/workflow/status/abbasghomi/CalculatorApp/CI?style=flat-square)
-![Contributors](https://img.shields.io/github/contributors/abbasghomi/CalculatorApp?style=flat-square)
-![License](https://img.shields.io/github/license/abbasghomi/CalculatorApp?style=flat-square)
+![Build Status](https://img.shields.io/github/actions/workflow/status/abbasghomi/ModularCalculator/dotnet.yml?branch=master&style=flat-square)
+![Contributors](https://img.shields.io/github/contributors/abbasghomi/ModularCalculator?style=flat-square)
+![License](https://img.shields.io/github/license/abbasghomi/ModularCalculator?style=flat-square)
 
 A modular and extensible calculator application built with .NET 8, leveraging the power of the Managed Extensibility Framework (MEF) to support dynamic plugins for different mathematical operations.
 
@@ -23,8 +23,8 @@ A modular and extensible calculator application built with .NET 8, leveraging th
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/abbasghomi/CalculatorApp.git
-    cd CalculatorApp
+    git clone https://github.com/abbasghomi/ModularCalculator.git
+    cd ModularCalculator
     ```
 
 2. **Build the solution:**
@@ -57,13 +57,13 @@ We welcome contributions from the community! Here’s how you can get involved:
    - If you find this project useful or interesting, please give it a star! It helps others discover the project and motivates us to keep improving it.
 
 2. **Submit Issues: 🐞**
-   - Found a bug or have a feature request? Please [open an issue](https://github.com/abbasghomi/CalculatorApp/issues) to let us know.
+   - Found a bug or have a feature request? Please [open an issue](https://github.com/abbasghomi/ModularCalculator/issues) to let us know.
 
 3. **Contribute Code: 💻**
    - Check out the [Contributing Guide](CONTRIBUTING.md) to learn how to set up your development environment, create pull requests, and follow our coding standards.
 
 4. **Join the Discussion: 💬**
-   - Have questions or want to discuss ideas? Start a conversation in our [Discussions](https://github.com/abbasghomi/CalculatorApp/discussions) section.
+   - Have questions or want to discuss ideas? Start a conversation in our [Discussions](https://github.com/abbasghomi/ModularCalculator/discussions) section.
 
 ## 🧑‍💻 How to Contribute
 
@@ -94,4 +94,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Happy coding!** 🎉
 
-Made with ❤️ by [Your Name](https://github.com/abbasghomi)
+Made with ❤️ by Abbas (https://github.com/abbasghomi)
